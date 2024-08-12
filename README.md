@@ -1,2 +1,3 @@
-#React Başlangıç Projesi
-#Bu kodlar bir react projesine başlangıç için gerekli olan paketlerden oluşan başlangıç setidir
+# React Başlangıç Projesi
+
+# Bu kodlar bir react projesine başlangıç için gerekli olan paketlerden oluşan başlangıç setidir
